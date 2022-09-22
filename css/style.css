@@ -17,6 +17,7 @@ body{
 .title-page{
     text-align: center;
     padding-bottom: 25px;
+    color: rgba(229,49,112,255);
 }
 
 .head-sec{
@@ -33,4 +34,9 @@ body{
 
 main{
     padding: 30px;
+}
+
+.box{
+    background-color: rgba(15,14,23,255);
+    border: 1px solid black;
 }
