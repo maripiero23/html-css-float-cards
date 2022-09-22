@@ -11,16 +11,17 @@ body{
 .cont1{
     width: 920px;
     margin: auto;
+
 }
 
 #title-page{
     text-align: center;
 }
 
-.cont1{
+.head-sec{
     padding: 25px;
 }
 
-.par{
-    padding: 25px;
+.title-page{
+    padding-bottom: 25px;
 }
