@@ -4,7 +4,11 @@
     padding: 0;
 }
 
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
 .heade-sec{
-    width: 920;
+    width: 920px;
     margin: auto;
 }
