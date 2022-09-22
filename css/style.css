@@ -14,14 +14,23 @@ body{
 
 }
 
-#title-page{
+.title-page{
     text-align: center;
+    padding-bottom: 25px;
 }
 
 .head-sec{
     padding: 25px;
 }
 
-.title-page{
-    padding-bottom: 25px;
+
+
+
+.container{
+    width: 920px;
+    margin: auto;
+}
+
+main{
+    padding: 30px;
 }
