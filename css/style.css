@@ -37,6 +37,8 @@ main{
 }
 
 .box{
+    display: inline-block;
     background-color: rgba(15,14,23,255);
     border: 1px solid black;
+    
 }
