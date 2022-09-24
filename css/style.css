@@ -12,3 +12,16 @@ body{
     width: 920px;
     margin: auto;
 }
+
+.text-align{
+    text-align: center;
+}
+
+header{
+    padding: 25px;
+}
+
+header h1{
+    margin-bottom: 25px;
+    color: rgba(229,49,112,255);
+}
