@@ -8,36 +8,7 @@ body{
     font-family: Arial, Helvetica, sans-serif;
 }
 
-.cont1{
-    width: 920px;
-    margin: auto;
-
-}
-
-.title-page{
-    text-align: center;
-    padding-bottom: 25px;
-    color: rgba(229,49,112,255);
-}
-
-.head-sec{
-    padding: 25px;
-}
-
-
-
-
 .container{
     width: 920px;
     margin: auto;
-}
-
-main{
-    padding: 30px;
-}
-
-.box{
-    display: inline-block;
-    background-color: rgba(15,14,23,255);
-    border: 1px solid black;    
 }
